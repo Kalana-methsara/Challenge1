@@ -13,4 +13,4 @@ A simple project that prints **"Hello, World!"** to the console — a classic be
 Make sure you have **Python 3** installed.  
 Check your version:
 ```bash
-python --version
+ python --version
